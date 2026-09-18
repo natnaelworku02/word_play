@@ -1,0 +1,6 @@
+{
+  "name": "Party Word Pairs & Charades",
+  "description": "Multiplayer party game for phone and PC: create rooms, submit secret words, pair up equally, and play heads-up forehead charades.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
